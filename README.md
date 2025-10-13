@@ -43,8 +43,7 @@ The site is designed with a clean, minimal, and modern layout using **HTML**, **
 ---
 
 ## Live Preview
-[View My Portfolio](https://www.linkedin.com/in/jyeana-mauhay-74141838a/)/)  
-
+[View My Portfolio](https://sage-roe.github.io/portfolio/)
 
 ---
 
@@ -53,8 +52,8 @@ The site is designed with a clean, minimal, and modern layout using **HTML**, **
 **From:** Batangas, Philippines  
 **Course:** BS in Information Technology (3rd Year)  
 **Connect with me:**  
-- GitHub: [github.com/yourusername]((https://github.com/sage-roe))  
-- LinkedIn: [linkedin.com/in/yourlinkedin]((https://www.linkedin.com/in/jyeana-mauhay-74141838a/))
+- GitHub: [github.com/sage-roe](https://github.com/sage-roe)  
+- LinkedIn: [linkedin.com/in/jyeana-mauhay-74141838a](https://www.linkedin.com/in/jyeana-mauhay-74141838a/)
 
 ---
 
