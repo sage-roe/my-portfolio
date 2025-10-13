@@ -43,8 +43,8 @@ The site is designed with a clean, minimal, and modern layout using **HTML**, **
 ---
 
 ## Live Preview
-[View My Portfolio](https://yourusername.github.io/portfolio/)  
-*(Replace `yourusername` with your actual GitHub username)*
+[View My Portfolio](https://www.linkedin.com/in/jyeana-mauhay-74141838a/)/)  
+
 
 ---
 
@@ -53,8 +53,8 @@ The site is designed with a clean, minimal, and modern layout using **HTML**, **
 **From:** Batangas, Philippines  
 **Course:** BS in Information Technology (3rd Year)  
 **Connect with me:**  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- GitHub: [github.com/yourusername]((https://github.com/sage-roe))  
+- LinkedIn: [linkedin.com/in/yourlinkedin]((https://www.linkedin.com/in/jyeana-mauhay-74141838a/))
 
 ---
 
