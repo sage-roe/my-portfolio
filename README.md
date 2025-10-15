@@ -1,4 +1,4 @@
-# Jyeana C. Mauhay | Portfolio Website
+Portfolio Website
 
 Hi there!  
 I'm **Jyeana C. Mauhay**, a **3rd Year BSIT Student at Batangas State University - Mabini Campus**, passionate about web development, design, and technology.
